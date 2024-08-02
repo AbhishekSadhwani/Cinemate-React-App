@@ -5,8 +5,13 @@ Cinemate is a movie information web application developed using ReactJS for a re
 
 ## Built With
 
-* [![React][React]]
-* [![HTML][HTML]]
+* [React]
+* [React-Router]
+* [JavaScript]
+* [HTML]
+* [CSS]
+* [TailwindCSS]
+* [Netlify]
 
 
 ## Demo
