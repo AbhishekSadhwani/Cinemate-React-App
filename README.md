@@ -11,7 +11,6 @@ Cinemate is a movie information web application developed using ReactJS for a re
 * ![HTML][HTML]
 * ![CSS][CSS]
 * ![TailwindCSS][TailwindCSS]
-* ![Netlify][Netlify]
 
 
 ## Project Screenshots
@@ -26,7 +25,7 @@ Cinemate is a movie information web application developed using ReactJS for a re
 
 ## Demo
 
-Deployed on Netlify - https://cinemate-as.netlify.app/movies
+Deployed on ![Netlify][Netlify] - https://cinemate-as.netlify.app/movies
 
 
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
